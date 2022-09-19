@@ -2,11 +2,11 @@
 
 
 - 👀 I am Lorenzo, born in 2002 in Milan
-- 🎓 I graduated high school in 2021 (web dev)
+- 🎓 I graduated high school in 2021
 - 🌱 I’m currently studying Artificial Intelligence & Machine Learning
-- 💕 Interests: Billiards, skateboarding, basketball
+- 💕 Interests: Billiards, videogames, basketball
 - 💬 Ask me about Web Dev & Artificial Intelligence
-- ⚡ Fun fact: I am learning Ukrainian for some reason
+- ⚡ Fun fact: I am learning Ukrainian
 
 ### Tech Stack
 #### AI&ML Related
