@@ -5,7 +5,6 @@
 - 🎓 I graduated high school in 2021
 - 🌱 I’m currently studying Artificial Intelligence & Machine Learning
 - 💕 Interests: Billiards, videogames, basketball
-- 💬 Ask me about Web Dev & Artificial Intelligence
 - ⚡ Fun fact: I am learning Ukrainian
 
 ### Tech Stack
